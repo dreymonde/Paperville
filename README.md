@@ -10,6 +10,6 @@ My WWDC 2018 playground. **ACCEPTED**.
 
 ![overview](Contents/PrivateResources/Overview.jpeg)
 
-## Download and install
+## Download
 
-**Paperville** is an Swift PlaygroundBook for iPad. Download the latest version from the [Releases](https://github.com/dreymonde/Paperville/releases) tab.
+**Paperville** is a Swift PlaygroundBook for iPad. Download the latest version from the [Releases](https://github.com/dreymonde/Paperville/releases) tab.
