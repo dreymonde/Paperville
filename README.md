@@ -1,8 +1,8 @@
-# Paperville
-
 <p align="center">
-  <img width="460" height="300" src="Contents/PrivateResources/Intro.gif">
+  <img src="Contents/PrivateResources/Intro.gif">
 </p>
+
+# Paperville
 
 My WWDC 2018 playground. **ACCEPTED**.
 
